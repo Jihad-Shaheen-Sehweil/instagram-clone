@@ -1,6 +1,7 @@
 # Next.js - Instagaram Clone
 
-You will need a google API_KEY and secret from google credentials for the auth and a firebase config
+You will need a google API_KEY and secret from google credentials for the auth and 
+a firebase.js(in the root) file and the firebase config
 
 ## How to use
 
