@@ -1,0 +1,11 @@
+npx create-next-app -e with-tailwindcss project_name - create a next.js project with tailwindcss
+npm i @heroicons/react - tailwindcss icons and there is solid and outline icons
+npm i @tailwindcss/forms - A plugin that provides a basic reset for form styles
+npm i faker@5.5.3 - to genrate fake data
+npm install --save-dev tailwind-scrollbar
+npm install tailwind-scrollbar-hide
+npm install next-auth
+npm i firebase
+npm i recoil
+npm i @headlessui/react
+npm i react-moment
